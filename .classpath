@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="dsa/dsa_java/src"/>
+	<classpathentry kind="src" path="dsa/JDBC/src"/>
+	<classpathentry kind="src" path="dsa/untitled/src"/>
+	<classpathentry kind="src" path="spring boot/springrest/springrest/.mvn/wrapper"/>
+	<classpathentry kind="src" path="spring boot/springrest/springrest/src/main/java"/>
+	<classpathentry kind="src" path="spring boot/springrest/springrest/src/test/java"/>
+	<classpathentry kind="output" path="dsa/JDBC/out/production/JDBC"/>
+</classpath>
